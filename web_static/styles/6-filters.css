@@ -38,7 +38,7 @@
     text-align: left;
     margin-top: 14.5px;
     margin-bottom: 5px;
-    margin-left: 40px;
+    margin-left: 56px;
 
 }
 
@@ -46,7 +46,7 @@
     font-weight: 400;
     font-size: 14px;
     text-align: left;
-    margin-left: 40px;
+    margin-left: 56px;
     margin-right: 85px;
     margin-bottom: 0px;
     margin-top: 0;
@@ -54,8 +54,6 @@
     overflow: hidden;
     text-overflow: ellipsis;
 }
-
-
 
 .popover {
     visibility: hidden;
